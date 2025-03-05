@@ -1,0 +1,9 @@
+<script src="assets/js/code.jquery.com_jquery-3.7.0.min.js"></script>
+    <!-- <script src="assets/jscript/jquery.min.js"></script>  -->
+    <script src="assets/jscript/owl.carousel.min.js"></script>
+    <!-- <script src="assets/jscript/jquery.min.js"></script>  -->
+    <script src="assets/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+    <!-- <script src="assets/bootstrap-5.3.3-dist/js/bootstrap.min.js"></script> -->
+    <script src="assets/jscript/min.js"></script>
+    <script src="assets/jscript/slider.js"></script>
+    <script src="assets/jscript/script.js"></script>
